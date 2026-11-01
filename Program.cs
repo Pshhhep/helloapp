@@ -9,7 +9,7 @@ class Program
 
     public static void Hello()
     {
-        Console.WriteLine("hello");
+        Console.WriteLine("hello everyone");
     }
 
     public static void GreetWhite()
