@@ -4,10 +4,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Hello();
+        GreetWhite();
+        GreetBlack();
+        GreetEveryone();
     }
 
-    public static void Hello()
+    public static void GreetEveryone()
     {
         Console.WriteLine("hello everyone");
     }
